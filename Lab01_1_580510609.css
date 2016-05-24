@@ -1,0 +1,48 @@
+.header{
+    color: #880e4f;
+    border: 10px solid #e1bee7;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 5 px gray;
+}
+.container{
+    display: inline-block;
+    width: 10%;
+
+    color: #6200ea;
+    text-align: center;
+    padding: 15px;
+    background-color: #4dd0e1;
+    box-shadow: 2px 2px 5px gray;
+}
+
+.day{
+    display: inline-block;
+    width: 10%;
+    color: #01579b;
+    text-align: center;
+    padding-right: 30px;
+    background-color: #ce93d8;
+    box-shadow: 2px 2px 5px gray;
+    font-size: 22px; 
+}
+.holiday{
+    display: inline-block;
+    width: 10%;
+    color: #d50000;
+    text-align: center;
+    padding-right: 30px;
+    background-color: #eeff41;
+    box-shadow: 2px 2px 5px gray;
+    font-size: 22px;
+}
+.birthday{
+    display: inline-block;
+    width: 10%;
+    color: #4caf50;
+    text-align: center;
+    padding-right: 30px;
+    background-color: #eeff41;
+    box-shadow: 2px 2px 5px gray;
+    font-size: 22px;
+}
